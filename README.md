@@ -4,3 +4,14 @@ In this repository, you will find all the code talked about in the TypeScript Wo
 
 - Types
   - Lesson 1
+    - Implicit and Explicit types
+    - Tuples
+    - Enums
+  - Lesson 2
+    - Arrays
+    - Objects
+    - Union Type
+    - Any Type
+    - Type Aliases
+    - Type Assertions
+    - Non-null Assertions
